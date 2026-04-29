@@ -53,6 +53,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         font-weight: 500;
     }
 
+    
     input {
         width: 100%;
         padding: 10px;
